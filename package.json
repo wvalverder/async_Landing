@@ -1,0 +1,14 @@
+{
+  "name": "async_landing",
+  "version": "1.0.0",
+  "description": "Proyecto de Curso Funciones Asincronicas",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
